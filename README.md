@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats
 ![Adrix GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrix-fr&show_icons=true&theme=radical)
 
-## 🚩 GitHub Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrix-fr&layout=compact)](https://github.com/Adrix-fr/github-readme-stats)
 
+## 🚩 GitHub Graph
 [![Adrix-fr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrix-fr&bg_color=2E2EFE0&color=FF0000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Adrix-fr00710/github-readme-activity-graph)
