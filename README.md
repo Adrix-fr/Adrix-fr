@@ -16,4 +16,4 @@
 ## 🚩 GitHub Graph
 [![Adrix-fr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrix-fr&bg_color=2E2EFE0&color=00BFFF&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Adrix-fr00710/github-readme-activity-graph)
 
-![Profile views](https://gpvc.arturio.dev/[Adrix-fr])
+![Profile views](https://gpvc.arturio.dev/[[Adrix-fr](https://github.com/Adrix-fr)])
