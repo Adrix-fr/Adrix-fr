@@ -8,8 +8,8 @@
 ## 📌 Language and tools
 <img alt= "Javascript" src="./icons8-javascript-48.png"> <img alt= "Typescript" src="./icons8-typescript-48.png"> <img alt= "MongoDB" src="./icons8-mongodb-48.png"> <img alt= "Github" src="./icons8-github-64.png"> <img alt= "NodeJS" src="./icons8-node-js-48.png"> <img alt= "NPM" src="./icons8-npm-48.png">
 
-## 📊 GitHub Stat
+## 📊 GitHub Stats
 ![Adrix GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrix-fr&show_icons=true&theme=radical)
 
-
+## 🚩 GitHub Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrix-fr&layout=compact)](https://github.com/Adrix-fr/github-readme-stats)
