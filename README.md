@@ -5,6 +5,9 @@
 
 ・ 💻 I am learning javascript | typescript
 
+## 📝 Language and tools
+
+
 
 
 
