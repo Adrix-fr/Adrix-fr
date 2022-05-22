@@ -1,4 +1,9 @@
 ### 📝 About me
+・ 🚧 I'm currently working on a utility/automode bot
+
+・ ❓ How to contact me ? `Adrix_#9999` on discord
+
+・ 💻 I am learning javascript | typescript
 
 
 
