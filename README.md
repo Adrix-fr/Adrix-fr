@@ -14,4 +14,4 @@
 ## 🚩 GitHub Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrix-fr&layout=compact)](https://github.com/Adrix-fr/github-readme-stats)
 
-[![Adrix-fr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrix-fr&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Adrix-fr00710/github-readme-activity-graph)
+[![Adrix-fr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrix-fr&bg_color=fffff0&color=2E2EFE&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Adrix-fr00710/github-readme-activity-graph)
