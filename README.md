@@ -5,7 +5,7 @@
 
 ・ 💻 I am learning javascript | typescript
 
-## 📝 Language and tools
+## 📌 Language and tools
 <img alt= "Javascript" src="./icons8-javascript-48.png"> <img alt= "Typescript" src="./icons8-typescript-48.png"> <img alt= "MongoDB" src="./icons8-mongodb-48.png"> <img alt= "Github" src="./icons8-github-64.png"> <img alt= "NodeJS" src="./icons8-node-js-48.png"> <img alt= "NPM" src="./icons8-npm-48.png">
 
 
