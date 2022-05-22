@@ -6,7 +6,7 @@
 ・ 💻 I am learning javascript | typescript
 
 ## 📝 Language and tools
-<img alt= "./icons8-javascript-48.png" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt= "Javascript" src="/icons8-javascript-48.png">
 
 
 
