@@ -13,7 +13,7 @@
   <a href="https://nartya.app"><img src="https://img.shields.io/badge/nartya.app-0A0A0C?style=for-the-badge&logo=googlechrome&logoColor=FF4A2D" alt="nartya.app" /></a>
   <a href="https://discord.gg/q5MHWyBXNm"><img src="https://img.shields.io/badge/Discord-0A0A0C?style=for-the-badge&logo=discord&logoColor=FF4A2D" alt="Discord" /></a>
   <a href="https://github.com/NartyaTeam"><img src="https://img.shields.io/badge/NartyaTeam-0A0A0C?style=for-the-badge&logo=github&logoColor=FF4A2D" alt="NartyaTeam" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Adrix-fr&label=Profile%20views&color=FF4A2D&style=for-the-badge" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Adrix-fr.svg?style=for-the-badge&label=Profile%20views&color=FF4A2D&labelColor=555555&extraCount=1153" alt="Profile views" />
 </p>
 
 ---
