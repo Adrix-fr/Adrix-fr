@@ -39,9 +39,6 @@ const adrix = {
   <a href="https://github.com/NartyaTeam/nartya">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NartyaTeam&repo=nartya&bg_color=0A0A0C&title_color=FF4A2D&icon_color=FF4A2D&text_color=E8E4DC&border_color=2A1A17&border_radius=10" alt="nartya" />
   </a>
-  <a href="https://github.com/NartyaTeam/nartya-hub-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NartyaTeam&repo=nartya-hub-app&bg_color=0A0A0C&title_color=FF4A2D&icon_color=FF4A2D&text_color=E8E4DC&border_color=2A1A17&border_radius=10" alt="nartya-hub-app" />
-  </a>
 </p>
 
 | | Brique | Stack |
